@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
-
+theme: jekyll-default-layout
+title: Test-Homepage
 github:
   is_project_page: false
