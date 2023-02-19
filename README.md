@@ -1,3 +1,3 @@
 # Timmy
 
-![Timmy](/gord6.github.io/assets/images/timmy1.png)
+![Timmy](/gord6.github.io/assets/images/timmy1.jpg)
